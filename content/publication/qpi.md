@@ -4,6 +4,7 @@ authors = ["Stefanos Carlström", "Jana Preclíková", "Eleonora Lorek", "Esb
 date = "2016-12-23"
 math = true
 publication_types = ["2"]
+publication_status = 1
 publication = "New Journal of Physics"
 publication_short = "NJP"
 selected = false

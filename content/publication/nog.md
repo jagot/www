@@ -4,6 +4,7 @@ authors = ["Christoph M. Heyl", "Samuel N. Bengtsson", "Stefanos Carlström", "J
 date = "2014-10-28"
 math = true
 publication_types = ["2"]
+publication_status = 1
 publication = "New Journal of Physics"
 publication_short = "NJP"
 selected = false

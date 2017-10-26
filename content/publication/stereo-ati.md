@@ -4,6 +4,7 @@ authors = ["C. Leon M. Petersson", "Stefanos Carlström", "Kenneth J. Schafer", 
 date = "2016-04-13"
 math = true
 publication_types = ["2"]
+publication_status = 1
 publication = "Journal of Physics B: Atomic, Molecular and Optical Physics"
 publication_short = "JPhysB"
 selected = false

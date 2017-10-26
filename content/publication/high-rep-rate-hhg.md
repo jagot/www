@@ -4,6 +4,7 @@ authors = ["Eleonora Lorek", "Esben Witting Larsen", "Christoph Michael Heyl", "
 date = "2014-12-01"
 math = true
 publication_types = ["2"]
+publication_status = 1
 publication = "Review of Scientific Instruments"
 publication_short = "Rev. Sci. Instrum."
 selected = false

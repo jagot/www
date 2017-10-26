@@ -4,6 +4,7 @@ authors = ["Esben Witting Larsen", "Stefanos Carlström", "Eleonora Lorek", "Chr
 date = "2016-12-19"
 math = true
 publication_types = ["2"]
+publication_status = 1
 publication = "Scientific Reports"
 publication_short = "Sci Rep"
 selected = false
